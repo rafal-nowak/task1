@@ -1,0 +1,4 @@
+2021-12-30 12:23:42.933416;should_sum_two_decimal_values;False
+2021-12-30 12:23:42.933425;should_sum_two_negative_values;False
+2021-12-30 12:23:42.933427;should_sum_two_positive_values;False
+2021-12-30 12:23:42.933428;should_sum_two_zero_values;True
